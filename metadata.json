@@ -3,38 +3,11 @@
   "symbol": "PL",
   "description": "Introducing People's Token (PT) — a cryptocurrency created to unite people in the pursuit of making the world a better place. PT symbolizes the power of community and serves as a tool to support charitable initiatives, help those in need, and protect the environment.",
   "image": "https://cyan-peaceful-mule-319.mypinata.cloud/ipfs/bafybeigta2gdtop62vvsn5odbwrxphjlzqwyh7rwb3qwlsvimde5fh4woy",
-  "external_url": "",
-  "attributes": [
-    {
-      "trait_type": "Banner",
-      "value": "https://cyan-peaceful-mule-319.mypinata.cloud/ipfs/bafybeigx2x5q2j5qdjdjlnx3vhwzheo7jqhu2xmyqf6fz6qaqbmj7xdt3i"
-    },
-    {
-      "trait_type": "Telegram",
-      "value": "https://t.me/Peoples_Token"
-    },
-    {
-      "trait_type": "Twitter",
-      "value": "https://x.com/PeoplessToken"
-    }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://cyan-peaceful-mule-319.mypinata.cloud/ipfs/bafybeigta2gdtop62vvsn5odbwrxphjlzqwyh7rwb3qwlsvimde5fh4woy",
-        "type": "image/png"
-      },
-      {
-        "uri": "https://cyan-peaceful-mule-319.mypinata.cloud/ipfs/bafybeigx2x5q2j5qdjdjlnx3vhwzheo7jqhu2xmyqf6fz6qaqbmj7xdt3i",
-        "type": "image/png"
-      }
-    ],
-    "category": "image",
-    "creators": [
-      {
-        "address": "32GpSjEzoqeFiiMFjAPhuZoWyZi26uzRC1m8r9awyXrd",
-        "share": 100
-      }
-    ]
+  "external_url": "https://peoples-token.site",
+  "banner": "https://cyan-peaceful-mule-319.mypinata.cloud/ipfs/bafybeigx2x5q2j5qdjdjlnx3vhwzheo7jqhu2xmyqf6fz6qaqbmj7xdt3i",
+  "links": {
+    "telegram": "https://t.me/Peoples_Token",
+    "twitter": "https://x.com/PeoplessToken",
+    "discord": "https://discord.gg/n83nAUmC8d"
   }
 }
